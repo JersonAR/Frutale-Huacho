@@ -29,7 +29,7 @@
     whatsapp: "51906080756",
     // Modo demostración: true = arma el pedido pero no abre WhatsApp.
     demo: false,
-    vendedor: { nombre: "Jerson", whatsapp: "51906080756", plan: "$35.90 al mes", webUrl: "https://frutale.roxanjer.com/" },
+    vendedor: { nombre: "Jerson", whatsapp: "51906080756", plan: "$35.90 al mes", webUrl: "https://frutalehuacho.roxanjer.com/" },
     eslogan: "La felicidad sabe a fresa",
     // PENDIENTE: último dato público (TikTok, 19 jun 2026): "todos los días de 3 a 10 pm, menos los jueves". Confirmar para las dos sedes.
     horario: { texto: "3:00 pm – 10:00 pm", dias: "Todos los días, menos los jueves" },
